@@ -1,0 +1,13 @@
+DISK SNAPSHOT
+=============
+Target path: /c/Users/terel/Documents/TheoWAF/cpg/cloudfundamentals/Fall_2026_bootcamp/live-server-diagnostics
+
+Filesystem usage:
+Filesystem      Size  Used Avail Use% Mounted on
+C:              238G  212G   27G  90% /c
+
+Directory size:
+36K	/c/Users/terel/Documents/TheoWAF/cpg/cloudfundamentals/Fall_2026_bootcamp/live-server-diagnostics
+
+File count:
+3
